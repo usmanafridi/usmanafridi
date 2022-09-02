@@ -19,10 +19,10 @@
  I'm a Full Stack Data Scientist  with over three years of research and development experience. Currently involved in developing data-driven products, help clients with their raw data, perform end-to-end Data Science Life Cycle process on client's data right from data gathering to deploying the machine learning model.  
 <br />
 
-I'm currently based in **[Peshawar, Pakistan.]**
+
 
 <br />
-I am an avid researcher and love exploring new topics and learning new tools.
+I am an avid Researcher and love exploring new topics and learning new tools. You can find my <a href="https://github.com/usmanafridi/Research-Work" target="_blank">Research Work </a> here 
 <br />
 <br />
 
