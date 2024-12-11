@@ -16,7 +16,7 @@
 <br />
 
 ### :man_technologist: ABOUT ME:
- I'm a Full Stack Data Scientist  with over three years of research and development experience. Currently involved in developing data-driven products, help clients with their raw data, perform end-to-end Data Science Life Cycle process on client's data right from data gathering to deploying the machine learning model.  
+I'm a Full-Stack Data Scientist with over four years of research and development experience, specializing in transforming raw data into fully deployed, production-ready AI solutions. My work spans the entire data science lifecycle—data acquisition, preprocessing, feature engineering, model training, and continuous integration and deployment. Recently, I’ve focused on leveraging large language models, deep learning frameworks, and MLOps best practices (including CI/CD pipelines, containerization, and model monitoring) to build scalable, high-impact applications. I’m passionate about blending data engineering, machine learning, and cutting-edge technologies to deliver results that drive measurable value. 
 <br />
 
 
