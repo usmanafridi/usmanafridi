@@ -16,7 +16,9 @@
 <br />
 
 ### :man_technologist: ABOUT ME:
-I'm a Full-Stack Data Scientist with over four years of research and development experience, specializing in transforming raw data into fully deployed, production-ready AI solutions. My work spans the entire data science lifecycle—data acquisition, preprocessing, feature engineering, model training, and continuous integration and deployment. Recently, I’ve focused on leveraging large language models, deep learning frameworks, and MLOps best practices (including CI/CD pipelines, containerization, and model monitoring) to build scalable, high-impact applications. I’m passionate about blending data engineering, machine learning, and cutting-edge technologies to deliver results that drive measurable value. 
+I'm an AI Engineer and Technical Lead with over four years of hands-on experience building and deploying full-stack AI applications across industries. I specialize in taking ideas from zero to production—handling everything from data pipelines and model training to cloud deployment and front-end integration. My core strength lies in leveraging large language models (LLMs), retrieval-augmented generation (RAG), and MLOps best practices to deliver intelligent, scalable, and client-ready solutions.
+
+Whether it's fine-tuning GPT-based systems, developing SaaS APIs with Flask or Django, deploying with Docker and AWS/GCP, or crafting intuitive UIs in React, I thrive in bridging the gap between data science and real-world applications. As a freelancer and founder, I’ve led teams, mentored junior developers, and collaborated with global clients to deliver impactful AI solutions. I'm now focused on scaling my own AI services startup and building products that blend automation, intelligence, and measurable value.
 <br />
 
 
